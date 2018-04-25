@@ -55,7 +55,7 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar(".github-graph", "jerryshikanga");
+    new GitHubCalendar("#calendar", "jerryshikanga");
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
