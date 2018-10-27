@@ -1,1 +1,0 @@
-This my persona websitee. It utilises github static pages
